@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Connections",
-    "colorLabel": "Degreee",
+    "colorLabel": "Degree",
     "nodeLabel": "People"
   },
   "features": {
