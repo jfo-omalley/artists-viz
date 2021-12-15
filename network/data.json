@@ -1,1 +1,1005 @@
-{"nodes":[{"label":"Kara Walker","x":340.60479736328125,"y":-375.499267578125,"id":"2","attributes":{"Modularity Class":"0"},"color":"rgb(76,70,62)","size":23.33333396911621},{"label":"Jeanne Moutoussamy-Ashe","x":-48.38762283325195,"y":-35.68635177612305,"id":"39","attributes":{"Modularity Class":"2"},"color":"rgb(223,137,255)","size":16.666667938232422},{"label":"Adrian Piper","x":-131.77719116210938,"y":-322.2515869140625,"id":"4","attributes":{"Modularity Class":"6"},"color":"rgb(0,196,255)","size":30.0},{"label":"Deana Lawson","x":266.963134765625,"y":-295.0887756347656,"id":"20","attributes":{"Modularity Class":"0"},"color":"rgb(76,70,62)","size":10.0},{"label":"Gwendolyn Knight","x":-149.6683349609375,"y":486.0016174316406,"id":"0","attributes":{"Modularity Class":"5"},"color":"rgb(115,192,0)","size":23.33333396911621},{"label":"Lorna Simpson","x":35.985931396484375,"y":-195.82241821289062,"id":"6","attributes":{"Modularity Class":"1"},"color":"rgb(255,85,132)","size":10.0},{"label":"Leslie Hewitt","x":0.025061367079615593,"y":-0.009889923967421055,"id":"30","attributes":{"Modularity Class":"2"},"color":"rgb(223,137,255)","size":10.0},{"label":"Camille Billops","x":-75.60697937011719,"y":-505.1491394042969,"id":"25","attributes":{"Modularity Class":"6"},"color":"rgb(0,196,255)","size":23.33333396911621},{"label":"Clarissa Sligh","x":-160.62705993652344,"y":56.78054428100586,"id":"16","attributes":{"Modularity Class":"5"},"color":"rgb(115,192,0)","size":16.666667938232422},{"label":"Kenyatta A.C. Hinkle","x":-434.773193359375,"y":-333.2198486328125,"id":"41","attributes":{"Modularity Class":"8"},"color":"rgb(192,192,192)","size":10.0},{"label":"Iona Rozeal Brown","x":39.50041198730469,"y":218.7232666015625,"id":"35","attributes":{"Modularity Class":"2"},"color":"rgb(223,137,255)","size":16.666667938232422},{"label":"Howardena Pindell","x":425.40411376953125,"y":273.0096435546875,"id":"12","attributes":{"Link to artwork":"https://www.moma.org/artists/4625#works","Modularity Class":"2","Birth Date":"April 14, 1943","Image":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Howardeena_Pindell_painting_%22Queens%2C_Festival%22.jpg/440px-Howardeena_Pindell_painting_%22Queens%2C_Festival%22.jpg","Blurb":"Howardena Pindell is an American artist, curator, and educator. She is known as a painter and mixed media artist, her work explores texture, color, structures, and the process of making art; it is often political, addressing the intersecting issues of racism, feminism, violence, slavery, and exploitation. -- Wikipedia ","Wikipedia Link":"https://en.wikipedia.org/wiki/Howardena_Pindell"},"color":"rgb(223,137,255)","size":50.0},{"label":"Thelma Johnson Streat","x":284.132568359375,"y":39.47748947143555,"id":"32","attributes":{"Modularity Class":"3"},"color":"rgb(255,136,5)","size":16.666667938232422},{"label":"Barbara Jones-Hogu","x":-289.4012145996094,"y":71.7870864868164,"id":"17","attributes":{"Modularity Class":"5"},"color":"rgb(115,192,0)","size":10.0},{"label":"Syd Carpenter","x":431.6911926269531,"y":-45.097625732421875,"id":"21","attributes":{"Modularity Class":"2"},"color":"rgb(223,137,255)","size":10.0},{"label":"Candida Alvarez","x":300.0421142578125,"y":-80.15829467773438,"id":"34","attributes":{"Modularity Class":"2"},"color":"rgb(223,137,255)","size":10.0},{"label":"Julie Mehretu","x":352.0753173828125,"y":-274.6626281738281,"id":"3","attributes":{"Modularity Class":"0"},"color":"rgb(76,70,62)","size":16.666667938232422},{"label":"Njideka Akunyili Crosby","x":173.59629821777344,"y":242.41754150390625,"id":"31","attributes":{"Modularity Class":"2"},"color":"rgb(223,137,255)","size":10.0},{"label":"Ruth Inge Hardison","x":-62.52503204345703,"y":482.94183349609375,"id":"10","attributes":{"Modularity Class":"5"},"color":"rgb(115,192,0)","size":10.0},{"label":"Maren Hassinger","x":144.21522521972656,"y":29.067501068115234,"id":"14","attributes":{"Modularity Class":"3"},"color":"rgb(255,136,5)","size":10.0},{"label":"Gail Hansberry","x":-68.12527465820312,"y":42.4610481262207,"id":"22","attributes":{"Modularity Class":"5"},"color":"rgb(115,192,0)","size":10.0},{"label":"Louise Clement-Hoff","x":53.15129470825195,"y":-29.197261810302734,"id":"37","attributes":{"Modularity Class":"7"},"color":"rgb(211,179,176)","size":10.0},{"label":"Sylvia Snowden","x":-349.0096435546875,"y":184.892333984375,"id":"9","attributes":{"Modularity Class":"5"},"color":"rgb(115,192,0)","size":10.0},{"label":"Betye Saar","x":216.17648315429688,"y":35.26670837402344,"id":"13","attributes":{"Modularity Class":"3"},"color":"rgb(255,136,5)","size":16.666667938232422},{"label":"Alma Thomas","x":-511.1669616699219,"y":123.22636413574219,"id":"23","attributes":{"Modularity Class":"5"},"color":"rgb(115,192,0)","size":36.66666793823242},{"label":"Suzanne Jackson","x":139.9878387451172,"y":-81.88636016845703,"id":"33","attributes":{"Modularity Class":"2"},"color":"rgb(223,137,255)","size":23.33333396911621},{"label":"Loïs Mailou Jones","x":-101.43461608886719,"y":235.37677001953125,"id":"18","attributes":{"Modularity Class":"4"},"color":"rgb(0,189,148)","size":16.666667938232422},{"label":"Mickalene Thomas","x":37.01901626586914,"y":91.32270050048828,"id":"28","attributes":{"Modularity Class":"2"},"color":"rgb(223,137,255)","size":23.33333396911621},{"label":"Mildred Thompson","x":-377.52264404296875,"y":-68.7057876586914,"id":"7","attributes":{"Modularity Class":"5"},"color":"rgb(115,192,0)","size":30.0},{"label":"Carrie Mae Weems","x":6.1281304359436035,"y":-147.32647705078125,"id":"29","attributes":{"Modularity Class":"1"},"color":"rgb(255,85,132)","size":16.666667938232422},{"label":"Shinique Smith","x":-488.0041198730469,"y":-340.4499816894531,"id":"40","attributes":{"Modularity Class":"8"},"color":"rgb(192,192,192)","size":16.666667938232422},{"label":"Meta Vaux Warrick Fuller","x":28.391189575195312,"y":-71.03155517578125,"id":"36","attributes":{"Modularity Class":"7"},"color":"rgb(211,179,176)","size":16.666667938232422},{"label":"Renée Green","x":-255.81507873535156,"y":-231.17701721191406,"id":"8","attributes":{"Modularity Class":"6"},"color":"rgb(0,196,255)","size":10.0},{"label":"Fatimah Tuggar","x":143.18263244628906,"y":393.347412109375,"id":"27","attributes":{"Modularity Class":"2"},"color":"rgb(223,137,255)","size":30.0},{"label":"Ming Smith","x":-158.62109375,"y":-38.5961799621582,"id":"38","attributes":{"Modularity Class":"5"},"color":"rgb(115,192,0)","size":10.0},{"label":"Elizabeth Catlett","x":-324.60028076171875,"y":374.2294006347656,"id":"1","attributes":{"Modularity Class":"5"},"color":"rgb(115,192,0)","size":43.33333206176758},{"label":"Deborah Willis","x":-106.24665069580078,"y":-144.3983917236328,"id":"24","attributes":{"Modularity Class":"6"},"color":"rgb(0,196,255)","size":23.33333396911621},{"label":"Barbara Chase-Riboud","x":537.698486328125,"y":12.93226146697998,"id":"11","attributes":{"Modularity Class":"2"},"color":"rgb(223,137,255)","size":30.0},{"label":"Faith Ringgold","x":73.75698852539062,"y":-508.8738708496094,"id":"26","attributes":{"Modularity Class":"6"},"color":"rgb(0,196,255)","size":30.0},{"label":"Deborah Grant","x":541.6852416992188,"y":-116.77532958984375,"id":"15","attributes":{"Modularity Class":"2"},"color":"rgb(223,137,255)","size":10.0},{"label":"Ellen Banks","x":-97.72648620605469,"y":182.42164611816406,"id":"19","attributes":{"Modularity Class":"4"},"color":"rgb(0,189,148)","size":10.0},{"label":"Chakaia Booker","x":49.35914611816406,"y":-366.0162353515625,"id":"5","attributes":{"Modularity Class":"6"},"color":"rgb(0,196,255)","size":10.0},{"label":"Edmonia Lewis","x":198.06866455078125,"y":140.51454162597656,"id":"42","attributes":{"Modularity Class":"0"},"color":"rgb(0,0,0)","size":10.0}],"edges":[{"source":"27","target":"30","id":"416","attributes":{"birth":"\u003c[220924800000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"28","target":"30","id":"412","attributes":{"birth":"\u003c[220924800000.0]\u003e"},"color":"rgb(14,120,60)","size":4.0},{"source":"2","target":"20","id":"338","attributes":{"birth":"\u003c[283996800000.0]\u003e"},"color":"rgb(32,136,82)","size":8.0},{"source":"12","target":"28","id":"429","attributes":{"birth":"\u003c[33868800000.0]\u003e"},"color":"rgb(28,132,77)","size":7.0},{"source":"27","target":"28","id":"368","attributes":{"birth":"\u003c[33868800000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"29","target":"6","id":"377","attributes":{"birth":"\u003c[-296179200000.0]\u003e"},"color":"rgb(102,194,164)","size":33.0},{"source":"32","target":"13","id":"428","attributes":{"birth":"\u003c[-1370390400000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"35","target":"28","id":"459","attributes":{"birth":"\u003c[33868800000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"25","target":"5","id":"372","attributes":{"birth":"\u003c[-536457600000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"33","target":"30","id":"462","attributes":{"birth":"\u003c[220924800000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"7","target":"17","id":"439","attributes":{"birth":"\u003c[-1009843200000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"11","target":"12","id":"321","attributes":{"birth":"\u003c[-844041600000.0]\u003e"},"color":"rgb(18,124,66)","size":5.0},{"source":"28","target":"31","id":"422","attributes":{"birth":"\u003c[410227200000.0]\u003e"},"color":"rgb(14,120,60)","size":4.0},{"source":"11","target":"21","id":"350","attributes":{"birth":"\u003c[-536457600000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"12","target":"34","id":"443","attributes":{"birth":"\u003c[-470620800000.0]\u003e"},"color":"rgb(14,120,60)","size":4.0},{"source":"2","target":"3","id":"262","attributes":{"birth":"\u003c[0.0]\u003e"},"color":"rgb(102,194,164)","size":40.0},{"source":"16","target":"38","id":"466","attributes":{"birth":"\u003c[-599616000000.0]\u003e"},"color":"rgb(4,112,49)","size":2.0},{"source":"1","target":"17","id":"334","attributes":{"birth":"\u003c[-1009843200000.0]\u003e"},"color":"rgb(9,116,55)","size":3.0},{"source":"13","target":"14","id":"326","attributes":{"birth":"\u003c[-725846400000.0]\u003e"},"color":"rgb(9,116,55)","size":3.0},{"source":"11","target":"15","id":"329","attributes":{"birth":"\u003c[-63158400000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"39","target":"30","id":"460","attributes":{"birth":"\u003c[220924800000.0]\u003e"},"color":"rgb(14,120,60)","size":4.0},{"source":"3","target":"20","id":"346","attributes":{"birth":"\u003c[283996800000.0]\u003e"},"color":"rgb(14,120,60)","size":4.0},{"source":"12","target":"31","id":"447","attributes":{"birth":"\u003c[410227200000.0]\u003e"},"color":"rgb(23,128,71)","size":6.0},{"source":"18","target":"19","id":"337","attributes":{"birth":"\u003c[-996278400000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"33","target":"28","id":"458","attributes":{"birth":"\u003c[33868800000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"12","target":"35","id":"453","attributes":{"birth":"\u003c[-126230400000.0]\u003e"},"color":"rgb(9,116,55)","size":3.0},{"source":"7","target":"16","id":"440","attributes":{"birth":"\u003c[-978307200000.0]\u003e"},"color":"rgb(4,112,49)","size":2.0},{"source":"23","target":"17","id":"419","attributes":{"birth":"\u003c[-1009843200000.0]\u003e"},"color":"rgb(9,116,55)","size":3.0},{"source":"4","target":"6","id":"305","attributes":{"birth":"\u003c[-296179200000.0]\u003e"},"color":"rgb(28,132,77)","size":7.0},{"source":"23","target":"1","id":"352","attributes":{"birth":"\u003c[-1726704000000.0]\u003e"},"color":"rgb(37,140,88)","size":9.0},{"source":"1","target":"16","id":"330","attributes":{"birth":"\u003c[-978307200000.0]\u003e"},"color":"rgb(14,120,60)","size":4.0},{"source":"7","target":"38","id":"457","attributes":{"birth":"\u003c[-599616000000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"4","target":"8","id":"316","attributes":{"birth":"\u003c[-347155200000.0]\u003e"},"color":"rgb(9,116,55)","size":3.0},{"source":"0","target":"10","id":"320","attributes":{"birth":"\u003c[-1764374400000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"26","target":"25","id":"370","attributes":{"birth":"\u003c[-1148342400000.0]\u003e"},"color":"rgb(4,112,49)","size":2.0},{"source":"23","target":"9","id":"417","attributes":{"birth":"\u003c[-883612800000.0]\u003e"},"color":"rgb(4,112,49)","size":2.0},{"source":"4","target":"5","id":"302","attributes":{"birth":"\u003c[-536457600000.0]\u003e"},"color":"rgb(9,116,55)","size":3.0},{"source":"1","target":"22","id":"351","attributes":{"birth":"\u003c[-978307200000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"26","target":"4","id":"363","attributes":{"birth":"\u003c[-671587200000.0]\u003e"},"color":"rgb(23,128,71)","size":6.0},{"source":"25","target":"4","id":"362","attributes":{"birth":"\u003c[-671587200000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"0","target":"1","id":"259","attributes":{"birth":"\u003c[-1726704000000.0]\u003e"},"color":"rgb(9,116,55)","size":3.0},{"source":"1","target":"9","id":"319","attributes":{"birth":"\u003c[-883612800000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"24","target":"4","id":"361","attributes":{"birth":"\u003c[-671587200000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"1","target":"7","id":"312","attributes":{"birth":"\u003c[-1073001600000.0]\u003e"},"color":"rgb(14,120,60)","size":4.0},{"source":"23","target":"7","id":"410","attributes":{"birth":"\u003c[-1073001600000.0]\u003e"},"color":"rgb(4,112,49)","size":2.0},{"source":"26","target":"5","id":"373","attributes":{"birth":"\u003c[-536457600000.0]\u003e"},"color":"rgb(23,128,71)","size":6.0},{"source":"24","target":"28","id":"369","attributes":{"birth":"\u003c[33868800000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"12","target":"33","id":"442","attributes":{"birth":"\u003c[-820540800000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"27","target":"31","id":"426","attributes":{"birth":"\u003c[410227200000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"36","target":"37","id":"456","attributes":{"birth":"\u003c[-1375228800000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"40","target":"41","id":"465","attributes":{"birth":"\u003c[536457600000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0},{"source":"12","target":"27","id":"438","attributes":{"birth":"\u003c[-75168000000.0]\u003e"},"color":"rgb(0,109,44)","size":1.0}]}
+{
+    "nodes": [
+        {
+            "label": "Kara Walker",
+            "x": 340.60479736328125,
+            "y": -375.499267578125,
+            "id": "2",
+            "attributes": {
+                "Modularity Class": "0",
+                "Image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Howardeena_Pindell_painting_%22Queens%2C_Festival%22.jpg/440px-Howardeena_Pindell_painting_%22Queens%2C_Festival%22.jpg"
+            },
+            "color": "rgb(76,70,62)",
+            "size": 233.33333396911621
+        },
+        {
+            "label": "Jeanne Moutoussamy-Ashe",
+            "x": -48.38762283325195,
+            "y": -35.68635177612305,
+            "id": "39",
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(223,137,255)",
+            "size": 16.666667938232422
+        },
+        {
+            "label": "Adrian Piper",
+            "x": -131.77719116210938,
+            "y": -322.2515869140625,
+            "id": "4",
+            "attributes": {
+                "Modularity Class": "6"
+            },
+            "color": "rgb(0,196,255)",
+            "size": 30
+        },
+        {
+            "label": "Deana Lawson",
+            "x": 266.963134765625,
+            "y": -295.0887756347656,
+            "id": "20",
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(76,70,62)",
+            "size": 10
+        },
+        {
+            "label": "Gwendolyn Knight",
+            "x": -149.6683349609375,
+            "y": 486.0016174316406,
+            "id": "0",
+            "attributes": {
+                "Modularity Class": "5"
+            },
+            "color": "rgb(115,192,0)",
+            "size": 23.33333396911621
+        },
+        {
+            "label": "Lorna Simpson",
+            "x": 35.985931396484375,
+            "y": -195.82241821289062,
+            "id": "6",
+            "attributes": {
+                "Modularity Class": "1"
+            },
+            "color": "rgb(255,85,132)",
+            "size": 10
+        },
+        {
+            "label": "Leslie Hewitt",
+            "x": 0.025061367079615593,
+            "y": -0.009889923967421055,
+            "id": "30",
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(223,137,255)",
+            "size": 10
+        },
+        {
+            "label": "Camille Billops",
+            "x": -75.60697937011719,
+            "y": -505.1491394042969,
+            "id": "25",
+            "attributes": {
+                "Modularity Class": "6"
+            },
+            "color": "rgb(0,196,255)",
+            "size": 23.33333396911621
+        },
+        {
+            "label": "Clarissa Sligh",
+            "x": -160.62705993652344,
+            "y": 56.78054428100586,
+            "id": "16",
+            "attributes": {
+                "Modularity Class": "5"
+            },
+            "color": "rgb(115,192,0)",
+            "size": 16.666667938232422
+        },
+        {
+            "label": "Kenyatta A.C. Hinkle",
+            "x": -434.773193359375,
+            "y": -333.2198486328125,
+            "id": "41",
+            "attributes": {
+                "Modularity Class": "8"
+            },
+            "color": "rgb(192,192,192)",
+            "size": 10
+        },
+        {
+            "label": "Iona Rozeal Brown",
+            "x": 39.50041198730469,
+            "y": 218.7232666015625,
+            "id": "35",
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(223,137,255)",
+            "size": 16.666667938232422
+        },
+        {
+            "label": "Howardena Pindell",
+            "x": 425.40411376953125,
+            "y": 273.0096435546875,
+            "id": "12",
+            "attributes": {
+                "Link to artwork": "https://www.moma.org/artists/4625#works",
+                "Modularity Class": "2",
+                "Birth Date": "April 14, 1943",
+                "Image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Howardeena_Pindell_painting_%22Queens%2C_Festival%22.jpg/440px-Howardeena_Pindell_painting_%22Queens%2C_Festival%22.jpg",
+                "Blurb": "Howardena Pindell is an American artist, curator, and educator. She is known as a painter and mixed media artist, her work explores texture, color, structures, and the process of making art; it is often political, addressing the intersecting issues of racism, feminism, violence, slavery, and exploitation. -- Wikipedia ",
+                "Wikipedia Link": "https://en.wikipedia.org/wiki/Howardena_Pindell"
+            },
+            "color": "rgb(223,137,255)",
+            "size": 50
+        },
+        {
+            "label": "Thelma Johnson Streat",
+            "x": 284.132568359375,
+            "y": 39.47748947143555,
+            "id": "32",
+            "attributes": {
+                "Modularity Class": "3"
+            },
+            "color": "rgb(255,136,5)",
+            "size": 16.666667938232422
+        },
+        {
+            "label": "Barbara Jones-Hogu",
+            "x": -289.4012145996094,
+            "y": 71.7870864868164,
+            "id": "17",
+            "attributes": {
+                "Modularity Class": "5"
+            },
+            "color": "rgb(115,192,0)",
+            "size": 10
+        },
+        {
+            "label": "Syd Carpenter",
+            "x": 431.6911926269531,
+            "y": -45.097625732421875,
+            "id": "21",
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(223,137,255)",
+            "size": 10
+        },
+        {
+            "label": "Candida Alvarez",
+            "x": 300.0421142578125,
+            "y": -80.15829467773438,
+            "id": "34",
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(223,137,255)",
+            "size": 10
+        },
+        {
+            "label": "Julie Mehretu",
+            "x": 352.0753173828125,
+            "y": -274.6626281738281,
+            "id": "3",
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(76,70,62)",
+            "size": 16.666667938232422
+        },
+        {
+            "label": "Njideka Akunyili Crosby",
+            "x": 173.59629821777344,
+            "y": 242.41754150390625,
+            "id": "31",
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(223,137,255)",
+            "size": 10
+        },
+        {
+            "label": "Ruth Inge Hardison",
+            "x": -62.52503204345703,
+            "y": 482.94183349609375,
+            "id": "10",
+            "attributes": {
+                "Modularity Class": "5"
+            },
+            "color": "rgb(115,192,0)",
+            "size": 10
+        },
+        {
+            "label": "Maren Hassinger",
+            "x": 144.21522521972656,
+            "y": 29.067501068115234,
+            "id": "14",
+            "attributes": {
+                "Modularity Class": "3"
+            },
+            "color": "rgb(255,136,5)",
+            "size": 10
+        },
+        {
+            "label": "Gail Hansberry",
+            "x": -68.12527465820312,
+            "y": 42.4610481262207,
+            "id": "22",
+            "attributes": {
+                "Modularity Class": "5"
+            },
+            "color": "rgb(115,192,0)",
+            "size": 10
+        },
+        {
+            "label": "Louise Clement-Hoff",
+            "x": 53.15129470825195,
+            "y": -29.197261810302734,
+            "id": "37",
+            "attributes": {
+                "Modularity Class": "7"
+            },
+            "color": "rgb(211,179,176)",
+            "size": 10
+        },
+        {
+            "label": "Sylvia Snowden",
+            "x": -349.0096435546875,
+            "y": 184.892333984375,
+            "id": "9",
+            "attributes": {
+                "Modularity Class": "5"
+            },
+            "color": "rgb(115,192,0)",
+            "size": 10
+        },
+        {
+            "label": "Betye Saar",
+            "x": 216.17648315429688,
+            "y": 35.26670837402344,
+            "id": "13",
+            "attributes": {
+                "Modularity Class": "3"
+            },
+            "color": "rgb(255,136,5)",
+            "size": 16.666667938232422
+        },
+        {
+            "label": "Alma Thomas",
+            "x": -511.1669616699219,
+            "y": 123.22636413574219,
+            "id": "23",
+            "attributes": {
+                "Modularity Class": "5"
+            },
+            "color": "rgb(115,192,0)",
+            "size": 36.66666793823242
+        },
+        {
+            "label": "Suzanne Jackson",
+            "x": 139.9878387451172,
+            "y": -81.88636016845703,
+            "id": "33",
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(223,137,255)",
+            "size": 23.33333396911621
+        },
+        {
+            "label": "Loïs Mailou Jones",
+            "x": -101.43461608886719,
+            "y": 235.37677001953125,
+            "id": "18",
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(0,189,148)",
+            "size": 16.666667938232422
+        },
+        {
+            "label": "Mickalene Thomas",
+            "x": 37.01901626586914,
+            "y": 91.32270050048828,
+            "id": "28",
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(223,137,255)",
+            "size": 23.33333396911621
+        },
+        {
+            "label": "Mildred Thompson",
+            "x": -377.52264404296875,
+            "y": -68.7057876586914,
+            "id": "7",
+            "attributes": {
+                "Modularity Class": "5"
+            },
+            "color": "rgb(115,192,0)",
+            "size": 30
+        },
+        {
+            "label": "Carrie Mae Weems",
+            "x": 6.1281304359436035,
+            "y": -147.32647705078125,
+            "id": "29",
+            "attributes": {
+                "Modularity Class": "1"
+            },
+            "color": "rgb(255,85,132)",
+            "size": 16.666667938232422
+        },
+        {
+            "label": "Shinique Smith",
+            "x": -488.0041198730469,
+            "y": -340.4499816894531,
+            "id": "40",
+            "attributes": {
+                "Modularity Class": "8"
+            },
+            "color": "rgb(192,192,192)",
+            "size": 16.666667938232422
+        },
+        {
+            "label": "Meta Vaux Warrick Fuller",
+            "x": 28.391189575195312,
+            "y": -71.03155517578125,
+            "id": "36",
+            "attributes": {
+                "Modularity Class": "7"
+            },
+            "color": "rgb(211,179,176)",
+            "size": 16.666667938232422
+        },
+        {
+            "label": "Renée Green",
+            "x": -255.81507873535156,
+            "y": -231.17701721191406,
+            "id": "8",
+            "attributes": {
+                "Modularity Class": "6"
+            },
+            "color": "rgb(0,196,255)",
+            "size": 10
+        },
+        {
+            "label": "Fatimah Tuggar",
+            "x": 143.18263244628906,
+            "y": 393.347412109375,
+            "id": "27",
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(223,137,255)",
+            "size": 30
+        },
+        {
+            "label": "Ming Smith",
+            "x": -158.62109375,
+            "y": -38.5961799621582,
+            "id": "38",
+            "attributes": {
+                "Modularity Class": "5"
+            },
+            "color": "rgb(115,192,0)",
+            "size": 10
+        },
+        {
+            "label": "Elizabeth Catlett",
+            "x": -324.60028076171875,
+            "y": 374.2294006347656,
+            "id": "1",
+            "attributes": {
+                "Modularity Class": "5"
+            },
+            "color": "rgb(115,192,0)",
+            "size": 43.33333206176758
+        },
+        {
+            "label": "Deborah Willis",
+            "x": -106.24665069580078,
+            "y": -144.3983917236328,
+            "id": "24",
+            "attributes": {
+                "Modularity Class": "6"
+            },
+            "color": "rgb(0,196,255)",
+            "size": 23.33333396911621
+        },
+        {
+            "label": "Barbara Chase-Riboud",
+            "x": 537.698486328125,
+            "y": 12.93226146697998,
+            "id": "11",
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(223,137,255)",
+            "size": 30
+        },
+        {
+            "label": "Faith Ringgold",
+            "x": 73.75698852539062,
+            "y": -508.8738708496094,
+            "id": "26",
+            "attributes": {
+                "Modularity Class": "6"
+            },
+            "color": "rgb(0,196,255)",
+            "size": 30
+        },
+        {
+            "label": "Deborah Grant",
+            "x": 541.6852416992188,
+            "y": -116.77532958984375,
+            "id": "15",
+            "attributes": {
+                "Modularity Class": "2"
+            },
+            "color": "rgb(223,137,255)",
+            "size": 10
+        },
+        {
+            "label": "Ellen Banks",
+            "x": -97.72648620605469,
+            "y": 182.42164611816406,
+            "id": "19",
+            "attributes": {
+                "Modularity Class": "4"
+            },
+            "color": "rgb(0,189,148)",
+            "size": 10
+        },
+        {
+            "label": "Chakaia Booker",
+            "x": 49.35914611816406,
+            "y": -366.0162353515625,
+            "id": "5",
+            "attributes": {
+                "Modularity Class": "6"
+            },
+            "color": "rgb(0,196,255)",
+            "size": 10
+        },
+        {
+            "label": "Edmonia Lewis",
+            "x": 198.06866455078125,
+            "y": 140.51454162597656,
+            "id": "42",
+            "attributes": {
+                "Modularity Class": "0"
+            },
+            "color": "rgb(0,0,0)",
+            "size": 10
+        }
+    ],
+    "edges": [
+        {
+            "source": "27",
+            "target": "30",
+            "id": "416",
+            "attributes": {
+                "birth": "<[220924800000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "28",
+            "target": "30",
+            "id": "412",
+            "attributes": {
+                "birth": "<[220924800000.0]>"
+            },
+            "color": "rgb(14,120,60)",
+            "size": 4
+        },
+        {
+            "source": "2",
+            "target": "20",
+            "id": "338",
+            "attributes": {
+                "birth": "<[283996800000.0]>"
+            },
+            "color": "rgb(32,136,82)",
+            "size": 8
+        },
+        {
+            "source": "12",
+            "target": "28",
+            "id": "429",
+            "attributes": {
+                "birth": "<[33868800000.0]>"
+            },
+            "color": "rgb(28,132,77)",
+            "size": 7
+        },
+        {
+            "source": "27",
+            "target": "28",
+            "id": "368",
+            "attributes": {
+                "birth": "<[33868800000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "29",
+            "target": "6",
+            "id": "377",
+            "attributes": {
+                "birth": "<[-296179200000.0]>"
+            },
+            "color": "rgb(102,194,164)",
+            "size": 33
+        },
+        {
+            "source": "32",
+            "target": "13",
+            "id": "428",
+            "attributes": {
+                "birth": "<[-1370390400000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "35",
+            "target": "28",
+            "id": "459",
+            "attributes": {
+                "birth": "<[33868800000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "25",
+            "target": "5",
+            "id": "372",
+            "attributes": {
+                "birth": "<[-536457600000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "33",
+            "target": "30",
+            "id": "462",
+            "attributes": {
+                "birth": "<[220924800000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "7",
+            "target": "17",
+            "id": "439",
+            "attributes": {
+                "birth": "<[-1009843200000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "11",
+            "target": "12",
+            "id": "321",
+            "attributes": {
+                "birth": "<[-844041600000.0]>"
+            },
+            "color": "rgb(18,124,66)",
+            "size": 5
+        },
+        {
+            "source": "28",
+            "target": "31",
+            "id": "422",
+            "attributes": {
+                "birth": "<[410227200000.0]>"
+            },
+            "color": "rgb(14,120,60)",
+            "size": 4
+        },
+        {
+            "source": "11",
+            "target": "21",
+            "id": "350",
+            "attributes": {
+                "birth": "<[-536457600000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "12",
+            "target": "34",
+            "id": "443",
+            "attributes": {
+                "birth": "<[-470620800000.0]>"
+            },
+            "color": "rgb(14,120,60)",
+            "size": 4
+        },
+        {
+            "source": "2",
+            "target": "3",
+            "id": "262",
+            "attributes": {
+                "birth": "<[0.0]>"
+            },
+            "color": "rgb(102,194,164)",
+            "size": 40
+        },
+        {
+            "source": "16",
+            "target": "38",
+            "id": "466",
+            "attributes": {
+                "birth": "<[-599616000000.0]>"
+            },
+            "color": "rgb(4,112,49)",
+            "size": 2
+        },
+        {
+            "source": "1",
+            "target": "17",
+            "id": "334",
+            "attributes": {
+                "birth": "<[-1009843200000.0]>"
+            },
+            "color": "rgb(9,116,55)",
+            "size": 3
+        },
+        {
+            "source": "13",
+            "target": "14",
+            "id": "326",
+            "attributes": {
+                "birth": "<[-725846400000.0]>"
+            },
+            "color": "rgb(9,116,55)",
+            "size": 3
+        },
+        {
+            "source": "11",
+            "target": "15",
+            "id": "329",
+            "attributes": {
+                "birth": "<[-63158400000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "39",
+            "target": "30",
+            "id": "460",
+            "attributes": {
+                "birth": "<[220924800000.0]>"
+            },
+            "color": "rgb(14,120,60)",
+            "size": 4
+        },
+        {
+            "source": "3",
+            "target": "20",
+            "id": "346",
+            "attributes": {
+                "birth": "<[283996800000.0]>"
+            },
+            "color": "rgb(14,120,60)",
+            "size": 4
+        },
+        {
+            "source": "12",
+            "target": "31",
+            "id": "447",
+            "attributes": {
+                "birth": "<[410227200000.0]>"
+            },
+            "color": "rgb(23,128,71)",
+            "size": 6
+        },
+        {
+            "source": "18",
+            "target": "19",
+            "id": "337",
+            "attributes": {
+                "birth": "<[-996278400000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "33",
+            "target": "28",
+            "id": "458",
+            "attributes": {
+                "birth": "<[33868800000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "12",
+            "target": "35",
+            "id": "453",
+            "attributes": {
+                "birth": "<[-126230400000.0]>"
+            },
+            "color": "rgb(9,116,55)",
+            "size": 3
+        },
+        {
+            "source": "7",
+            "target": "16",
+            "id": "440",
+            "attributes": {
+                "birth": "<[-978307200000.0]>"
+            },
+            "color": "rgb(4,112,49)",
+            "size": 2
+        },
+        {
+            "source": "23",
+            "target": "17",
+            "id": "419",
+            "attributes": {
+                "birth": "<[-1009843200000.0]>"
+            },
+            "color": "rgb(9,116,55)",
+            "size": 3
+        },
+        {
+            "source": "4",
+            "target": "6",
+            "id": "305",
+            "attributes": {
+                "birth": "<[-296179200000.0]>"
+            },
+            "color": "rgb(28,132,77)",
+            "size": 7
+        },
+        {
+            "source": "23",
+            "target": "1",
+            "id": "352",
+            "attributes": {
+                "birth": "<[-1726704000000.0]>"
+            },
+            "color": "rgb(37,140,88)",
+            "size": 9
+        },
+        {
+            "source": "1",
+            "target": "16",
+            "id": "330",
+            "attributes": {
+                "birth": "<[-978307200000.0]>"
+            },
+            "color": "rgb(14,120,60)",
+            "size": 4
+        },
+        {
+            "source": "7",
+            "target": "38",
+            "id": "457",
+            "attributes": {
+                "birth": "<[-599616000000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "4",
+            "target": "8",
+            "id": "316",
+            "attributes": {
+                "birth": "<[-347155200000.0]>"
+            },
+            "color": "rgb(9,116,55)",
+            "size": 3
+        },
+        {
+            "source": "0",
+            "target": "10",
+            "id": "320",
+            "attributes": {
+                "birth": "<[-1764374400000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "26",
+            "target": "25",
+            "id": "370",
+            "attributes": {
+                "birth": "<[-1148342400000.0]>"
+            },
+            "color": "rgb(4,112,49)",
+            "size": 2
+        },
+        {
+            "source": "23",
+            "target": "9",
+            "id": "417",
+            "attributes": {
+                "birth": "<[-883612800000.0]>"
+            },
+            "color": "rgb(4,112,49)",
+            "size": 2
+        },
+        {
+            "source": "4",
+            "target": "5",
+            "id": "302",
+            "attributes": {
+                "birth": "<[-536457600000.0]>"
+            },
+            "color": "rgb(9,116,55)",
+            "size": 3
+        },
+        {
+            "source": "1",
+            "target": "22",
+            "id": "351",
+            "attributes": {
+                "birth": "<[-978307200000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "26",
+            "target": "4",
+            "id": "363",
+            "attributes": {
+                "birth": "<[-671587200000.0]>"
+            },
+            "color": "rgb(23,128,71)",
+            "size": 6
+        },
+        {
+            "source": "25",
+            "target": "4",
+            "id": "362",
+            "attributes": {
+                "birth": "<[-671587200000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "0",
+            "target": "1",
+            "id": "259",
+            "attributes": {
+                "birth": "<[-1726704000000.0]>"
+            },
+            "color": "rgb(9,116,55)",
+            "size": 3
+        },
+        {
+            "source": "1",
+            "target": "9",
+            "id": "319",
+            "attributes": {
+                "birth": "<[-883612800000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "24",
+            "target": "4",
+            "id": "361",
+            "attributes": {
+                "birth": "<[-671587200000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "1",
+            "target": "7",
+            "id": "312",
+            "attributes": {
+                "birth": "<[-1073001600000.0]>"
+            },
+            "color": "rgb(14,120,60)",
+            "size": 4
+        },
+        {
+            "source": "23",
+            "target": "7",
+            "id": "410",
+            "attributes": {
+                "birth": "<[-1073001600000.0]>"
+            },
+            "color": "rgb(4,112,49)",
+            "size": 2
+        },
+        {
+            "source": "26",
+            "target": "5",
+            "id": "373",
+            "attributes": {
+                "birth": "<[-536457600000.0]>"
+            },
+            "color": "rgb(23,128,71)",
+            "size": 6
+        },
+        {
+            "source": "24",
+            "target": "28",
+            "id": "369",
+            "attributes": {
+                "birth": "<[33868800000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "12",
+            "target": "33",
+            "id": "442",
+            "attributes": {
+                "birth": "<[-820540800000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "27",
+            "target": "31",
+            "id": "426",
+            "attributes": {
+                "birth": "<[410227200000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "36",
+            "target": "37",
+            "id": "456",
+            "attributes": {
+                "birth": "<[-1375228800000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "40",
+            "target": "41",
+            "id": "465",
+            "attributes": {
+                "birth": "<[536457600000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        },
+        {
+            "source": "12",
+            "target": "27",
+            "id": "438",
+            "attributes": {
+                "birth": "<[-75168000000.0]>"
+            },
+            "color": "rgb(0,109,44)",
+            "size": 1
+        }
+    ]
+}
