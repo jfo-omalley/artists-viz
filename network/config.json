@@ -10,7 +10,7 @@
   "text": {
     "more": "Artists are connected if: they went to the same school; work in the same field; and have works in the same art museum collections. The direction of the connection is based on the birth date. Nodes are sized based on the number of incoming connections, signaling they came before (by birth date) the other artists.",
     "intro": "This graph shows female African American artists and their connections. Click below to learn more about what makes a connection.",
-    "title": "Artists Lineage"
+    "title": "Config Test"
   },
   "legend": {
     "edgeLabel": "Connections",
