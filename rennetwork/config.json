@@ -10,21 +10,21 @@
   "text": {
     "more": "Artists are connected if: they went to the same school; work in the same field; and have works in the same art museum collections. The direction of the connection is based on the birth date. Nodes are sized based on the number of incoming connections, signaling they came before (by birth date) the other artists.",
     "intro": "This graph shows female African American artists and their connections. Click below to learn more about what makes a connection.",
-    "title": "Connected Artists"
+    "title": "Connections Among Renaissance and female African American Artists"
   },
   "legend": {
     "edgeLabel": "Connections",
-    "colorLabel": "Group",
-    "nodeLabel": "People"
+    "colorLabel": "Movement",
+    "nodeLabel": "Artists"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Modular Class",
+    "groupSelectorAttribute": "movement",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": true,
-    "imageAttribute": "Image"
+    "imageAttribute": "Label"
   },
   "sigma": {
     "drawingProperties": {
@@ -40,10 +40,10 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 1,
-      "minEdgeSize": 0.5,
-      "minNodeSize": 3,
-      "maxNodeSize": 12
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
     },
     "mouseProperties": {
       "maxRatio": 20,
