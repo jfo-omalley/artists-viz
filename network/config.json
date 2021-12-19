@@ -13,9 +13,9 @@
     "title": "Inferred Connections Among Renaissance and Female African American Artists"
   },
   "legend": {
-    "edgeLabel": "Connections",
-    "colorLabel": "Group",
-    "nodeLabel": "Artists"
+    "edgeLabel": "Connections \n",
+    "colorLabel": "Group \n",
+    "nodeLabel": "Artists \n"
   },
   "features": {
     "search": true,
