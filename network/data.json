@@ -2721,10 +2721,13 @@
             "attributes": {
                 "outdegree": "3",
                 "degree": "10",
-                "birth": "1971-01-28T00:00:00Z",
                 "indegree": "7",
-                "Image": "https://d1lfxha3ugu3d4.cloudfront.net/images/opencollection/objects/size2/2008.7a-c_design_scan.jpg",
+                "birth": "1971-01-28T00:00:00Z",
                 "article": "https://en.wikipedia.org/wiki/Mickalene_Thomas",
+                "Image": "https://d1lfxha3ugu3d4.cloudfront.net/images/opencollection/objects/size2/2008.7a-c_design_scan.jpg",
+                "biography":"Mickalene Thomas is a contemporary African-American visual artist best known as a painter of complex works using rhinestones, acrylic, and enamel. Thomas's collage work is inspired from popular art histories and movements, including Impressionism, Cubism, Dada and the Harlem Renaissance. - Wikipedia",
+                "description of work":"Mickalene Thomas creates monumental pictures that explore and challenge the representation and objectification of women, and black women in particular. She draws inspiration from images of iconic African American women, emblems of the Black Power Movement, and her mother’s photographs from the 1970s. Here, she casts an African American woman as leading lady in an updated version of an established visual archetype—a sexualized female subject seemingly caught unaware as she reclines passively in her own beauty. In doing so, the artist turns the historic nude on its head and ousts the white European woman from the bed where she often lounges, attended by a black maidservant, in Western art. - The Brooklyn Museum",
+                "image credit":"Mickalene Thomas (American, born 1971). A Little Taste Outside of Love, 2007. Acrylic, enamel and rhinestones on wood panel, Overall: 108 x 144 in. (274.3 x 365.8 cm). Brooklyn Museum, Gift of Giulia Borghese and Designated Purchase Fund, 2008.7a-c. © artist or artist's estate (Photo: Image courtesy of the artist and Rhona Hoffman Gallery, Chicago, 2008.7a-c_design_scan.jpg)",
                 "group": "African American"
             },
             "color": "rgb(238,121,147)",
@@ -3366,10 +3369,15 @@
             "id": "280",
             "attributes": {
                 "outdegree": "1",
+                "indegree": "4",
                 "degree": "5",
                 "birth": "1977-01-01T00:00:00Z",
-                "indegree": "4",
                 "article": "https://en.wikipedia.org/wiki/Leslie_Hewitt",
+                "Image": "https://images.weserv.nl/?url=https://www.guggenheim.org/wp-content/uploads/2006/01/2010.60_ph_web-1.jpg&w=870",
+                "biography":"Leslie Hewitt is an American contemporary visual artist. - Wikipedia",
+                "description of work":"In Hewitt’s series Riffs on Real Time (2006–09), snapshots lay atop appropriated printed matter shot against a wood floor or carpet so that the contrasting textures of these layered materials build up and outward toward the viewer. In Hewitt’s various photo-sculptural series, the photographs begin to pointedly inhabit the space of the viewer. Positioned on the floor, their frames lean against the gallery walls, asserting their own materiality and calling attention to the space of the gallery. The images in the series Midday (2009) feature remixed arrangements of a set vocabulary of references: a wood plank, a mandarin orange, a swath of blue-and-white striped fabric, a copy of Claude Brown’s Manchild in the Promised Land (1965)—the autobiographical coming-of-age story of a young man in 1950s Harlem—and various snapshots of Harlem interiors and outdoor shots of Haarlem and Rotterdam in the Netherlands. These elements are themselves pictured on the floor leaning against a wall—stacked, balanced, and perched atop one another in various combinations—and photographed frontally in a visual presentation that suggests a collapse of both space and time. Hewitt’s references to the seventeenth-century Dutch still-life tradition present a postcolonial critique of the economic infrastructure predicated on the movement of labor, food, and material objects in early capitalism that produced the genre. Installations of Hewitt’s works often include architecturally scaled sculptural interventions that call attention to the viewer’s physical experience of the gallery space. - The Guggenheim",
+                "image credit":"Leslie Hewitt b. 1977, Saint Albans, New York. Riffs on Real Time (8 of 10). 2006-2009. Chromogenic print. 30 x 24 inches (76.2 x 61 cm). Solomon R. Guggenheim Museum, New York Purchased with funds contributed by the Photography Committee, 2010.",
+                "copyright":"© Leslie Hewitt",
                 "group": "African American"
             },
             "color": "rgb(238,121,147)",
