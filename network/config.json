@@ -14,17 +14,17 @@
   },
   "legend": {
     "edgeLabel": "Connections",
-    "colorLabel": "Movement",
+    "colorLabel": "Group",
     "nodeLabel": "Artists"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
+    "groupSelectorAttribute": "group",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": true,
-    "imageAttribute": "Label"
+    "imageAttribute": "Image"
   },
   "sigma": {
     "drawingProperties": {
