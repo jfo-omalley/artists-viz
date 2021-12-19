@@ -843,6 +843,10 @@
                 "birth": "1939-06-26T00:00:00Z",
                 "indegree": "9",
                 "article": "https://en.wikipedia.org/wiki/Barbara_Chase-Riboud",
+                "Image":"https://www.moma.org/media/W1siZiIsIjQzODE4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg?sha=4aab2c40183282ba",
+                "biography":"Barbara Chase-Riboud is an American visual artist and sculptor, bestselling novelist, and award-winning poet. After becoming established as a sculptor and poet, Chase-Riboud gained widespread recognition as an author for her novel Sally Hemings. - Wikipedia",
+                "description of work":"Chase-Riboud was nineteen when she created her first lost-wax bronze casting at the American Academy in Rome, establishing a lifelong relationship with both the technique and the city. She began adding fiber to her sculptures a decade later in an attempt to reverse the properties of materials: making metal look soft and delicate and fiber appear ridged and hard. The sculpture may be shown in two configurations: as you see it here (The Albino) or with its arms upstretched to the ceiling (All That Rises Must Converge/Black). Both names have literary resonances. The former is the title of a poem by the artist and the latter is a reference to a 1965 short story about race and class by the Southern writer Flannery O’Connor. - MoMA",
+                "image credit":"The Albino, 1972 (reinstalled in 1994 by the artist as All That Rises Must Converge/Black). Bronze with black patina, wool and other fibers. 180 × 126 × 30 (457.2 × 320 × 76.2 cm). Committee on Painting and Sculpture Funds, and gift of Mrs. Elie Nadelman (by exchange). © Barbara Chase-Riboud. Courtesy of Michael Rosenfeld Gallery LLC, New York, NY",
                 "group": "African American"
             },
             "color": "rgb(238,121,147)",
@@ -1969,6 +1973,10 @@
                 "degree": "18",
                 "indegree": "6",
                 "article": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+                "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Leonardo_da_Vinci_-_presumed_self-portrait_-_lossless.png/640px-Leonardo_da_Vinci_-_presumed_self-portrait_-_lossless.png",
+                "biography":"Leonardo da Vinci was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor and architect. - Wikipeda",
+                "description of work":"https://en.wikipedia.org/wiki/Portrait_of_a_Man_in_Red_Chalk",
+                "image credit":"public domain",
                 "group": "Renaissance"
             },
             "color": "rgb(63,177,125)",
@@ -2048,6 +2056,10 @@
                 "degree": "22",
                 "indegree": "1",
                 "article": "https://en.wikipedia.org/wiki/Andrea_Mantegna",
+                "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Andrea_Mantegna_-_The_Lamentation_over_the_Dead_Christ_-_WGA13981.jpg/1400px-Andrea_Mantegna_-_The_Lamentation_over_the_Dead_Christ_-_WGA13981.jpg",
+                "biography":"Andrea Mantegna was an Italian painter, a student of Roman archeology, and son-in-law of Jacopo Bellini. Like other artists of the time, Mantegna experimented with perspective, e.g. by lowering the horizon in order to create a sense of greater monumentality. - Wikipedia",
+                "description of work":"The Lamentation over the Dead Christ, 1490, by Andrea Mantegna. Tempera on canvas; Pinacoteca di Brera, Milan - Wikimedia Commons",
+                "image credit":"public domain",
                 "group": "Renaissance"
             },
             "color": "rgb(63,177,125)",

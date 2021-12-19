@@ -8,9 +8,9 @@
     "text": "jfo"
   },
   "text": {
-    "more": "The graph was constructed by combining three edge tables (tables that contain connecting pairs): \n\n- female African American visual artists, connected by sub-discipline and education.\n- Renaissance artists, connected by era, sub-discipline, and citizenship.\n- connections between the two groups on the basis of whether or not they are classed as a sculptor and co-existence in the same museum collections.",
-    "intro": "This graph shows three types of connections: connections among female African American artists, among Renaissance artists (all men), and between the two groups. Click below to learn more about the process behind this graph. ",
-    "title": "Connections Among Renaissance and female African American Artists"
+    "more": "",
+    "intro": "This graph suggests connections between two sometimes distant communities (female African American artists and Renaissance artists) based on the artists' field of work and presence in shared museum collections. For more a demo of the project, as well as more information on its methodology and goals, follow the link below to the GitHub repository.",
+    "title": "Inferred Connections Among Renaissance and Female African American Artists"
   },
   "legend": {
     "edgeLabel": "Connections",
