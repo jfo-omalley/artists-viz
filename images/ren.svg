@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1429.8494"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-718.953491 -670.000000 1429.849365 1349.367188"
+     height="1349.3672" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -104.497726,182.693512 C -240.568604,138.603119 -378.539307,-131.638824 -334.448914,-267.709686"
+              class="id_Andrea_Mantegna id_Antonio_Vassilacchi"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 142.099747,-236.248474 C 40.497772,-147.230988 -245.431427,-166.107727 -334.448914,-267.709686"
+              class="id_Giorgione id_Antonio_Vassilacchi" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -222.467285,-24.939899 C -293.417572,-51.097534 -360.606537,-196.759399 -334.448914,-267.709686"
+              class="id_Paolo_Veronese id_Antonio_Vassilacchi"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 17.049189,400.718262 C -186.936035,337.332275 -397.834900,-63.724457 -334.448914,-267.709686"
+              class="id_Titian id_Antonio_Vassilacchi" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 24.556290,-19.617668 C -96.863159,2.564972 -312.266296,-146.290237 -334.448914,-267.709686"
+              class="id_Sebastiano_del_Piombo id_Antonio_Vassilacchi"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -95.347137,-225.295868 C -151.650253,-185.958267 -295.111328,-211.406570 -334.448914,-267.709686"
+              class="id_Lorenzo_Lotto id_Antonio_Vassilacchi"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 144.922546,182.676117 C -41.028915,188.473251 -328.651794,-81.758224 -334.448914,-267.709686"
+              class="id_Palma_il_Giovane id_Antonio_Vassilacchi"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.039795,-434.112305 C -148.841095,-362.749969 -263.086578,-262.908386 -334.448914,-267.709686"
+              class="id_Moretto_da_Brescia id_Antonio_Vassilacchi"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 265.663849,-31.075525 C 98.314453,41.620209 -261.753174,-100.360291 -334.448914,-267.709686"
+              class="id_Nikolaos_Philanthropinos id_Antonio_Vassilacchi"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -104.497726,182.693512 C -235.767303,67.240768 -259.492554,-302.842743 -144.039795,-434.112305"
+              class="id_Andrea_Mantegna id_Moretto_da_Brescia"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 142.099747,-236.248474 C 45.299076,-218.593323 -126.384659,-337.311646 -144.039795,-434.112305"
+              class="id_Giorgione id_Moretto_da_Brescia" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 17.049189,400.718262 C -182.134720,265.969940 -278.788086,-234.928375 -144.039795,-434.112305"
+              class="id_Titian id_Moretto_da_Brescia" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 24.556290,-19.617668 C -92.061852,-68.797379 -193.219513,-317.494171 -144.039795,-434.112305"
+              class="id_Sebastiano_del_Piombo id_Moretto_da_Brescia"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -95.347137,-225.295868 C -146.848953,-257.320618 -176.064560,-382.610504 -144.039795,-434.112305"
+              class="id_Lorenzo_Lotto id_Moretto_da_Brescia"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 265.663849,-31.075525 C 103.115761,-29.742149 -142.706421,-271.564209 -144.039795,-434.112305"
+              class="id_Nikolaos_Philanthropinos id_Moretto_da_Brescia"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -473.101715,-455.532135 C -464.305267,-522.332947 -350.909393,-609.339417 -284.108612,-600.542908"
+              class="id_Pieter_Brueghel_the_Elder id_Justus_Sustermans"
+              stroke-opacity="1.0" stroke="#23966f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 492.367004,432.714142 C 486.012238,503.123962 370.865387,599.206543 300.455566,592.851807"
+              class="id_Jan_van_Eyck id_Michiel_Coxie" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 403.312256,170.565659 C 467.198120,275.594238 405.484131,528.965942 300.455566,592.851807"
+              class="id_Hieronymus_Bosch id_Michiel_Coxie" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.039795,-434.112305 C 37.110359,-368.547089 210.487762,1.525959 144.922546,182.676117"
+              class="id_Moretto_da_Brescia id_Palma_il_Giovane"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 265.663849,-31.075525 C 284.265930,35.823067 211.821136,164.074036 144.922546,182.676117"
+              class="id_Nikolaos_Philanthropinos id_Palma_il_Giovane"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 492.367004,432.714142 C 434.886169,468.100800 295.584991,434.959564 260.198334,377.478729"
+              class="id_Jan_van_Eyck id_Frans_Floris_I" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 403.312256,170.565659 C 416.072113,240.571060 330.203735,364.718872 260.198334,377.478729"
+              class="id_Hieronymus_Bosch id_Frans_Floris_I" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 300.455566,592.851807 C 249.329498,557.828613 225.175171,428.604797 260.198334,377.478729"
+              class="id_Michiel_Coxie id_Frans_Floris_I" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 612.112366,231.427963 C 570.939697,331.020935 359.791290,418.651398 260.198334,377.478729"
+              class="id_Hans_Eworth id_Frans_Floris_I" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -104.497726,182.693512 C -54.617149,132.805969 95.035011,132.795532 144.922546,182.676117"
+              class="id_Andrea_Mantegna id_Palma_il_Giovane"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 142.099747,-236.248474 C 226.449234,-153.028107 228.142914,98.326630 144.922546,182.676117"
+              class="id_Giorgione id_Palma_il_Giovane" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -222.467285,-24.939899 C -107.466118,-56.894665 112.967781,67.674957 144.922546,182.676117"
+              class="id_Paolo_Veronese id_Palma_il_Giovane" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 17.049189,400.718262 C -0.984570,331.535156 75.739441,200.709869 144.922546,182.676117"
+              class="id_Titian id_Palma_il_Giovane" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 24.556290,-19.617668 C 89.088303,-3.232162 161.308044,118.144104 144.922546,182.676117"
+              class="id_Sebastiano_del_Piombo id_Palma_il_Giovane"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -95.347137,-225.295868 C 34.301197,-191.755417 178.463013,53.027782 144.922546,182.676117"
+              class="id_Lorenzo_Lotto id_Palma_il_Giovane" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -104.497726,182.693512 C -184.265488,99.265518 -178.775131,-145.528122 -95.347137,-225.295868"
+              class="id_Andrea_Mantegna id_Lorenzo_Lotto" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 142.099747,-236.248474 C 96.800888,-186.568573 -45.667240,-179.997009 -95.347137,-225.295868"
+              class="id_Giorgione id_Lorenzo_Lotto" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 231.145935,-623.220154 C 297.517273,-639.892761 422.083130,-565.344543 438.755676,-498.973206"
+              class="id_Lippo_Memmi id_Masolino_da_Panicale"
+              stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 103.350174,-455.679932 C 182.547714,-476.146790 332.044281,-388.050781 352.511169,-308.853241"
+              class="id_Filippino_Lippi id_Baldassare_Peruzzi"
+              stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 438.755676,-498.973206 C 459.530762,-443.700317 407.784058,-329.628326 352.511169,-308.853241"
+              class="id_Masolino_da_Panicale id_Baldassare_Peruzzi"
+              stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 231.145935,-623.220154 C 318.292358,-584.619812 391.111511,-395.999664 352.511169,-308.853241"
+              class="id_Lippo_Memmi id_Baldassare_Peruzzi" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 24.556290,-19.617668 C 107.122063,65.950943 102.617798,318.152496 17.049189,400.718262"
+              class="id_Sebastiano_del_Piombo id_Titian" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -95.347137,-225.295868 C 52.334961,-122.572296 119.772758,253.036179 17.049189,400.718262"
+              class="id_Lorenzo_Lotto id_Titian" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 265.663849,-31.075525 C 302.299683,105.006165 153.130875,364.082428 17.049189,400.718262"
+              class="id_Nikolaos_Philanthropinos id_Titian" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 492.367004,432.714142 C 422.126373,398.095398 368.693512,240.806305 403.312256,170.565659"
+              class="id_Jan_van_Eyck id_Hieronymus_Bosch" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -616.776489,194.599472 C -437.273499,184.859833 -153.409622,439.504791 -143.669968,619.007751"
+              class="id_Giotto id_Domenico_Ghirlandaio" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -225.957550,376.883118 C -161.075104,408.850525 -111.702560,554.125305 -143.669968,619.007751"
+              class="id_Donatello id_Domenico_Ghirlandaio" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -589.098755,-248.069870 C -326.597473,-163.740097 -59.340195,356.506470 -143.669968,619.007751"
+              class="id_Andrea_del_Verrocchio id_Domenico_Ghirlandaio"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -442.965637,-38.803036 C -251.544357,32.899979 -71.966949,427.586487 -143.669968,619.007751"
+              class="id_Lorenzo_Ghiberti id_Domenico_Ghirlandaio"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -362.382477,554.184570 C -305.675354,523.406738 -174.447845,562.300598 -143.669968,619.007751"
+              class="id_Benozzo_Gozzoli id_Domenico_Ghirlandaio"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 492.367004,432.714142 C 450.990570,556.201233 203.695328,679.367188 80.208275,637.990723"
+              class="id_Jan_van_Eyck id_Antonis_Mor" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 403.312256,170.565659 C 432.176483,328.671448 238.314087,609.126526 80.208275,637.990723"
+              class="id_Hieronymus_Bosch id_Antonis_Mor" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 260.198334,377.478729 C 276.302704,465.579132 168.308685,621.886292 80.208275,637.990723"
+              class="id_Frans_Floris_I id_Antonis_Mor" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 300.455566,592.851807 C 265.433868,645.929016 133.285522,673.012390 80.208275,637.990723"
+              class="id_Michiel_Coxie id_Antonis_Mor" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 612.112366,231.427963 C 587.044067,419.121338 267.901642,663.058960 80.208275,637.990723"
+              class="id_Hans_Eworth id_Antonis_Mor" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="9.0"
+              d="M -616.776489,194.599472 C -628.694824,113.156807 -524.408325,-26.884701 -442.965637,-38.803036"
+              class="id_Giotto id_Lorenzo_Ghiberti" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -616.776489,194.599472 C -493.980682,215.637665 -341.344269,431.388733 -362.382477,554.184570"
+              class="id_Giotto id_Benozzo_Gozzoli" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -225.957550,376.883118 C -217.782242,439.628387 -299.637207,546.009277 -362.382477,554.184570"
+              class="id_Donatello id_Benozzo_Gozzoli" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -442.965637,-38.803036 C -308.251465,63.677849 -259.901611,419.470398 -362.382477,554.184570"
+              class="id_Lorenzo_Ghiberti id_Benozzo_Gozzoli"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -95.347137,-225.295868 C -30.230816,-208.140915 41.711243,-84.733994 24.556290,-19.617668"
+              class="id_Lorenzo_Lotto id_Sebastiano_del_Piombo"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 265.663849,-31.075525 C 219.733902,19.437557 75.069374,26.312273 24.556290,-19.617668"
+              class="id_Nikolaos_Philanthropinos id_Sebastiano_del_Piombo"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -104.497726,182.693512 C -119.149155,116.420471 -41.716747,-4.966236 24.556290,-19.617668"
+              class="id_Andrea_Mantegna id_Sebastiano_del_Piombo"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 142.099747,-236.248474 C 161.917221,-169.413620 91.391144,-39.435135 24.556290,-19.617668"
+              class="id_Giorgione id_Sebastiano_del_Piombo" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 438.755676,-498.973206 C 380.333221,-423.233429 179.089935,-397.257477 103.350174,-455.679932"
+              class="id_Masolino_da_Panicale id_Filippino_Lippi"
+              stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 231.145935,-623.220154 C 239.094818,-564.152954 162.417374,-463.628845 103.350174,-455.679932"
+              class="id_Lippo_Memmi id_Filippino_Lippi" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 265.663849,-31.075525 C 154.617569,2.282608 -61.989002,-114.249596 -95.347137,-225.295868"
+              class="id_Nikolaos_Philanthropinos id_Lorenzo_Lotto"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 352.511169,-308.853241 C 205.854218,-302.508118 -23.648926,-512.975891 -29.994059,-659.632813"
+              class="id_Baldassare_Peruzzi id_Parmigianino" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 103.350174,-455.679932 C 35.890751,-469.801666 -44.115791,-592.173401 -29.994059,-659.632813"
+              class="id_Filippino_Lippi id_Parmigianino" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -104.497726,182.693512 C -169.618317,164.760757 -240.400055,40.180695 -222.467285,-24.939899"
+              class="id_Andrea_Mantegna id_Paolo_Veronese" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 142.099747,-236.248474 C 111.448059,-121.073349 -107.292160,5.711792 -222.467285,-24.939899"
+              class="id_Giorgione id_Paolo_Veronese" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 17.049189,400.718262 C -115.985748,363.489899 -259.695618,108.095032 -222.467285,-24.939899"
+              class="id_Titian id_Paolo_Veronese" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 24.556290,-19.617668 C -25.912868,28.722599 -174.127029,25.529259 -222.467285,-24.939899"
+              class="id_Sebastiano_del_Piombo id_Paolo_Veronese"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -95.347137,-225.295868 C -80.699966,-159.800644 -156.972061,-39.587063 -222.467285,-24.939899"
+              class="id_Lorenzo_Lotto id_Paolo_Veronese" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -144.039795,-434.112305 C -77.890816,-336.592346 -124.947304,-91.088882 -222.467285,-24.939899"
+              class="id_Moretto_da_Brescia id_Paolo_Veronese"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 265.663849,-31.075525 C 169.264755,67.777817 -123.613937,71.459198 -222.467285,-24.939899"
+              class="id_Nikolaos_Philanthropinos id_Paolo_Veronese"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -104.497726,182.693512 C -138.966629,49.585629 8.991867,-201.779572 142.099747,-236.248474"
+              class="id_Andrea_Mantegna id_Giorgione" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 265.663849,-31.075525 C 199.916428,-47.397293 125.777969,-170.501068 142.099747,-236.248474"
+              class="id_Nikolaos_Philanthropinos id_Giorgione"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 438.755676,-498.973206 C 312.873810,-437.355164 31.623966,-533.750977 -29.994059,-659.632813"
+              class="id_Masolino_da_Panicale id_Parmigianino"
+              stroke-opacity="1.0" stroke="#ff7045"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 231.145935,-623.220154 C 171.635406,-578.274658 14.951406,-600.122314 -29.994059,-659.632813"
+              class="id_Lippo_Memmi id_Parmigianino" stroke-opacity="1.0"
+              stroke="#ff7045"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -104.497726,182.693512 C -36.583385,201.989075 36.344757,332.803925 17.049189,400.718262"
+              class="id_Andrea_Mantegna id_Titian" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 142.099747,-236.248474 C 244.482986,-83.845001 169.452667,298.334991 17.049189,400.718262"
+              class="id_Giorgione id_Titian" stroke-opacity="1.0"
+              stroke="#d97dd8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 603.304626,-283.982788 C 616.981934,-219.926224 541.413086,-103.325424 477.356506,-89.648109"
+              class="id_Beato_Giacomo_da_Ulma id_Ambrosius_Holbein"
+              stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 265.663849,-31.075525 C 234.385345,85.710602 12.288403,213.972015 -104.497726,182.693512"
+              class="id_Nikolaos_Philanthropinos id_Andrea_Mantegna"
+              stroke-opacity="1.0" stroke="#d97dd8"/>
+        <path fill="none" stroke-width="9.0"
+              d="M -616.776489,194.599472 C -699.774841,100.530060 -683.168152,-165.071564 -589.098755,-248.069870"
+              class="id_Giotto id_Andrea_del_Verrocchio" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -442.965637,-38.803036 C -514.045654,-51.429779 -601.725525,-176.989868 -589.098755,-248.069870"
+              class="id_Lorenzo_Ghiberti id_Andrea_del_Verrocchio"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -225.957550,376.883118 C -423.576385,324.520752 -641.461121,-50.451027 -589.098755,-248.069870"
+              class="id_Donatello id_Andrea_del_Verrocchio" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -362.382477,554.184570 C -568.176636,439.076935 -704.206421,-42.275715 -589.098755,-248.069870"
+              class="id_Benozzo_Gozzoli id_Andrea_del_Verrocchio"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -516.091736,390.149506 C -628.817627,336.137482 -716.888306,86.030746 -662.876282,-26.695091"
+              class="id_Leonardo_da_Vinci id_Michelangelo" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="9.0"
+              d="M -616.776489,194.599472 C -670.255371,159.560516 -697.915222,26.783779 -662.876282,-26.695091"
+              class="id_Giotto id_Michelangelo" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -589.098755,-248.069870 C -559.579285,-189.039398 -603.845825,-56.214539 -662.876282,-26.695091"
+              class="id_Andrea_del_Verrocchio id_Michelangelo"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -442.965637,-38.803036 C -484.526154,7.600681 -616.472595,14.865448 -662.876282,-26.695091"
+              class="id_Lorenzo_Ghiberti id_Michelangelo" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -225.957550,376.883118 C -394.056946,383.551239 -656.208191,141.404297 -662.876282,-26.695091"
+              class="id_Donatello id_Michelangelo" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -143.669968,619.007751 C -376.651794,593.708435 -688.175598,206.286743 -662.876282,-26.695091"
+              class="id_Domenico_Ghirlandaio id_Michelangelo"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -362.382477,554.184570 C -538.657166,498.107391 -718.953491,149.579605 -662.876282,-26.695091"
+              class="id_Benozzo_Gozzoli id_Michelangelo" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 477.356506,-89.648109 C 532.365479,-110.954926 646.839233,-60.401676 668.146057,-5.392680"
+              class="id_Ambrosius_Holbein id_Hans_Holbein_the_Younger"
+              stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 603.304626,-283.982788 C 671.990906,-241.233063 710.895813,-74.078995 668.146057,-5.392680"
+              class="id_Beato_Giacomo_da_Ulma id_Hans_Holbein_the_Younger"
+              stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -516.091736,390.149506 C -526.824829,320.856476 -438.984863,200.817307 -369.691833,190.084244"
+              class="id_Leonardo_da_Vinci id_Andrea_del_Sarto"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -662.876282,-26.695091 C -560.883484,-41.976112 -384.972870,88.091492 -369.691833,190.084244"
+              class="id_Michelangelo id_Andrea_del_Sarto" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -616.776489,194.599472 C -568.262573,144.279495 -420.011810,141.570358 -369.691833,190.084244"
+              class="id_Giotto id_Andrea_del_Sarto" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -225.957550,376.883118 C -292.064178,368.270203 -378.304749,256.190857 -369.691833,190.084244"
+              class="id_Donatello id_Andrea_del_Sarto" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -589.098755,-248.069870 C -457.586517,-204.320435 -325.942383,58.572037 -369.691833,190.084244"
+              class="id_Andrea_del_Verrocchio id_Andrea_del_Sarto"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -143.669968,619.007751 C -274.659058,578.427368 -410.272156,321.073334 -369.691833,190.084244"
+              class="id_Domenico_Ghirlandaio id_Andrea_del_Sarto"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -442.965637,-38.803036 C -382.533417,-7.680339 -338.569122,129.652039 -369.691833,190.084244"
+              class="id_Lorenzo_Ghiberti id_Andrea_del_Sarto"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -362.382477,554.184570 C -436.664429,482.826385 -441.050018,264.366180 -369.691833,190.084244"
+              class="id_Benozzo_Gozzoli id_Andrea_del_Sarto"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="12.0"
+              d="M -616.776489,194.599472 C -557.529541,213.572525 -497.118683,330.902527 -516.091736,390.149506"
+              class="id_Giotto id_Leonardo_da_Vinci" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -589.098755,-248.069870 C -446.853485,-135.027390 -403.049225,247.904205 -516.091736,390.149506"
+              class="id_Andrea_del_Verrocchio id_Leonardo_da_Vinci"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -442.965637,-38.803036 C -371.800354,61.612698 -415.676025,318.984222 -516.091736,390.149506"
+              class="id_Lorenzo_Ghiberti id_Leonardo_da_Vinci"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -225.957550,376.883118 C -281.331085,437.563232 -455.411591,445.523071 -516.091736,390.149506"
+              class="id_Donatello id_Leonardo_da_Vinci" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -143.669968,619.007751 C -263.925964,647.720459 -487.379028,510.405487 -516.091736,390.149506"
+              class="id_Domenico_Ghirlandaio id_Leonardo_da_Vinci"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -362.382477,554.184570 C -425.931335,552.119446 -518.156921,453.698364 -516.091736,390.149506"
+              class="id_Benozzo_Gozzoli id_Leonardo_da_Vinci"
+              stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -616.776489,194.599472 C -502.155945,152.892395 -267.664612,262.262604 -225.957550,376.883118"
+              class="id_Giotto id_Donatello" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -442.965637,-38.803036 C -316.426788,0.932579 -186.221924,250.344269 -225.957550,376.883118"
+              class="id_Lorenzo_Ghiberti id_Donatello" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 668.146057,-5.392680 C 704.303467,53.178188 670.683228,195.270569 612.112366,231.427963"
+              class="id_Hans_Holbein_the_Younger id_Hans_Eworth"
+              stroke-opacity="1.0" stroke="#8cb900"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 492.367004,432.714142 C 476.058868,368.507843 547.906006,247.736145 612.112366,231.427963"
+              class="id_Jan_van_Eyck id_Hans_Eworth" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 403.312256,170.565659 C 457.244720,140.978088 582.524841,177.495483 612.112366,231.427963"
+              class="id_Hieronymus_Bosch id_Hans_Eworth" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 80.208275,637.990723 C 105.276543,450.297333 424.418976,206.359680 612.112366,231.427963"
+              class="id_Antonis_Mor id_Hans_Eworth" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 260.198334,377.478729 C 301.371002,277.885773 512.519409,190.255310 612.112366,231.427963"
+              class="id_Frans_Floris_I id_Hans_Eworth" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 300.455566,592.851807 C 290.502167,458.235657 477.496246,241.381378 612.112366,231.427963"
+              class="id_Michiel_Coxie id_Hans_Eworth" stroke-opacity="1.0"
+              stroke="#8cb900"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#d97dd8" r="23.333332" cx="-104.49773"
+                class="id_Andrea_Mantegna" cy="182.69351" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="10.0" cx="-334.4489"
+                class="id_Antonio_Vassilacchi" cy="-267.7097" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="21.666668" cx="142.09975"
+                class="id_Giorgione" cy="-236.24847" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="13.333333" cx="-222.46729"
+                class="id_Paolo_Veronese" cy="-24.9399" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="16.666666" cx="17.049189"
+                class="id_Titian" cy="400.71826" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="18.333334" cx="24.55629"
+                class="id_Sebastiano_del_Piombo" cy="-19.617668"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="20.0" cx="-95.34714"
+                class="id_Lorenzo_Lotto" cy="-225.29587" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="11.666667" cx="144.92255"
+                class="id_Palma_il_Giovane" cy="182.67612" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-144.0398"
+                class="id_Moretto_da_Brescia" cy="-434.1123" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="25.0" cx="265.66385"
+                class="id_Nikolaos_Philanthropinos" cy="-31.075525"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#23966f" r="11.666667" cx="-473.1017"
+                class="id_Pieter_Brueghel_the_Elder" cy="-455.53214"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#23966f" r="10.0" cx="-284.1086"
+                class="id_Justus_Sustermans" cy="-600.5429" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="18.333334" cx="492.367"
+                class="id_Jan_van_Eyck" cy="432.71414" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="15.0" cx="300.45557"
+                class="id_Michiel_Coxie" cy="592.8518" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="16.666666" cx="403.31226"
+                class="id_Hieronymus_Bosch" cy="170.56566" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="13.333333" cx="260.19833"
+                class="id_Frans_Floris_I" cy="377.47873" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="13.333333" cx="612.11237"
+                class="id_Hans_Eworth" cy="231.42796" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="16.666666" cx="231.14594"
+                class="id_Lippo_Memmi" cy="-623.22015" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="15.0" cx="438.75568"
+                class="id_Masolino_da_Panicale" cy="-498.9732" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="13.333333" cx="103.350174"
+                class="id_Filippino_Lippi" cy="-455.67993" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="11.666667" cx="352.51117"
+                class="id_Baldassare_Peruzzi" cy="-308.85324" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="23.333332" cx="-616.7765"
+                class="id_Giotto" cy="194.59947" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="15.0" cx="-143.66997"
+                class="id_Domenico_Ghirlandaio" cy="619.00775" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="20.0" cx="-225.95755"
+                class="id_Donatello" cy="376.88312" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="16.666666" cx="-589.09875"
+                class="id_Andrea_del_Verrocchio" cy="-248.06987"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="21.666668" cx="-442.96564"
+                class="id_Lorenzo_Ghiberti" cy="-38.803036" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="18.333334" cx="-362.38248"
+                class="id_Benozzo_Gozzoli" cy="554.1846" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="11.666667" cx="80.208275"
+                class="id_Antonis_Mor" cy="637.9907" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="10.0" cx="-29.994059"
+                class="id_Parmigianino" cy="-659.6328" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="13.333333" cx="603.3046"
+                class="id_Beato_Giacomo_da_Ulma" cy="-283.9828" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="11.666667" cx="477.3565"
+                class="id_Ambrosius_Holbein" cy="-89.64811" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="13.333333" cx="-516.09174"
+                class="id_Leonardo_da_Vinci" cy="390.1495" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="11.666667" cx="-662.8763"
+                class="id_Michelangelo" cy="-26.695091" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="11.666667" cx="668.14606"
+                class="id_Hans_Holbein_the_Younger" cy="-5.39268"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-369.69183"
+                class="id_Andrea_del_Sarto" cy="190.08424" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="37" x="-104.49773" y="191.2615" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Andrea_Mantegna">
+            Andrea Mantegna
+        </text>
+        <text font-size="16" x="-334.4489" y="-264.79953" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Antonio_Vassilacchi">
+            Antonio Vassilacchi
+        </text>
+        <text font-size="35" x="142.09975" y="-228.0368" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Giorgione">
+            Giorgione
+        </text>
+        <text font-size="21" x="-222.46729" y="-21.12032" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Paolo_Veronese">
+            Paolo Veronese
+        </text>
+        <text font-size="27" x="17.049189" y="405.62915" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Titian">
+            Titian
+        </text>
+        <text font-size="29" x="24.55629" y="-14.250969" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sebastiano_del_Piombo">
+            Sebastiano del Piombo
+        </text>
+        <text font-size="32" x="-95.34714" y="-219.47556" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lorenzo_Lotto">
+            Lorenzo Lotto
+        </text>
+        <text font-size="19" x="144.92255" y="186.19223" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Palma_il_Giovane">
+            Palma il Giovane
+        </text>
+        <text font-size="24" x="-144.0398" y="-429.74707" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Moretto_da_Brescia">
+            Moretto da Brescia
+        </text>
+        <text font-size="40" x="265.66385" y="-21.930017" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nikolaos_Philanthropinos">
+            Nikolaos Philanthropinos
+        </text>
+        <text font-size="19" x="-473.1017" y="-451.13235" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Pieter_Brueghel_the_Elder">
+            Pieter Brueghel the Elder
+        </text>
+        <text font-size="16" x="-284.1086" y="-597.582" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Justus_Sustermans">
+            Justus Sustermans
+        </text>
+        <text font-size="29" x="492.367" y="439.4296" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jan_van_Eyck">
+            Jan van Eyck
+        </text>
+        <text font-size="24" x="300.45557" y="597.2932" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Michiel_Coxie">
+            Michiel Coxie
+        </text>
+        <text font-size="27" x="403.31226" y="176.81798" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hieronymus_Bosch">
+            Hieronymus Bosch
+        </text>
+        <text font-size="21" x="260.19833" y="381.2983" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Frans_Floris_I">
+            Frans Floris I
+        </text>
+        <text font-size="21" x="612.11237" y="235.24754" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hans_Eworth">
+            Hans Eworth
+        </text>
+        <text font-size="27" x="231.14594" y="-617.04694" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lippo_Memmi">
+            Lippo Memmi
+        </text>
+        <text font-size="24" x="438.75568" y="-494.60797" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Masolino_da_Panicale">
+            Masolino da Panicale
+        </text>
+        <text font-size="21" x="103.350174" y="-450.87854" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Filippino_Lippi">
+            Filippino Lippi
+        </text>
+        <text font-size="19" x="352.51117" y="-305.39743" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Baldassare_Peruzzi">
+            Baldassare Peruzzi
+        </text>
+        <text font-size="37" x="-616.7765" y="201.44664" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Giotto">
+            Giotto
+        </text>
+        <text font-size="24" x="-143.66997" y="623.44916" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Domenico_Ghirlandaio">
+            Domenico Ghirlandaio
+        </text>
+        <text font-size="32" x="-225.95755" y="382.70343" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Donatello">
+            Donatello
+        </text>
+        <text font-size="27" x="-589.09875" y="-243.15898" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Andrea_del_Verrocchio">
+            Andrea del Verrocchio
+        </text>
+        <text font-size="35" x="-442.96564" y="-32.325985" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lorenzo_Ghiberti">
+            Lorenzo Ghiberti
+        </text>
+        <text font-size="29" x="-362.38248" y="559.5513" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Benozzo_Gozzoli">
+            Benozzo Gozzoli
+        </text>
+        <text font-size="19" x="80.208275" y="641.44653" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Antonis_Mor">
+            Antonis Mor
+        </text>
+        <text font-size="16" x="-29.994059" y="-655.92773" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Parmigianino">
+            Parmigianino
+        </text>
+        <text font-size="21" x="603.3046" y="-280.09656" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Beato_Giacomo_da_Ulma">
+            Beato Giacomo da Ulma
+        </text>
+        <text font-size="19" x="477.3565" y="-86.1923" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ambrosius_Holbein">
+            Ambrosius Holbein
+        </text>
+        <text font-size="21" x="-516.09174" y="393.9691" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Leonardo_da_Vinci">
+            Leonardo da Vinci
+        </text>
+        <text font-size="19" x="-662.8763" y="-22.295311" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Michelangelo">
+            Michelangelo
+        </text>
+        <text font-size="19" x="668.14606" y="-0.9928999" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hans_Holbein_the_Younger">
+            Hans Holbein the Younger
+        </text>
+        <text font-size="16" x="-369.69183" y="193.04518" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Andrea_del_Sarto">
+            Andrea del Sarto
+        </text>
+    </g>
+</svg>
